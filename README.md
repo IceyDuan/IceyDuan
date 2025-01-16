@@ -2,7 +2,7 @@
 He is currently studying at the National University of Singapore, the master of Industrial Engineering and System Management (Operational Research). The undergraduate is Sichuan University, Indusrtial Engineering.
 
 ## Project | 项目 📚
-- [暂无]()
+- [Application of LSTM Neural Network in Optimizing-then-Predicting Winning and Losing Stocks] (https://github.com/IceyDuan/Portfolio-Selection)
 
 ## Skills | 技术 🛠️
 <p align="left"> 
