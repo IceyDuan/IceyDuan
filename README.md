@@ -4,7 +4,8 @@ He is currently studying at the National University of Singapore, the master of 
 ## Project | 项目 📚
 - [Application of LSTM Neural Network in Optimizing-then-Predicting Winning and Losing Stocks] (https://github.com/IceyDuan/Portfolio-Selection)
 - [Warehouse Management System] (https://github.com/IceyDuan/Warehouse-Management-System)
-- [Esay practice of Data-crawler] ([https://github.com/IceyDuan/Warehouse-Management-System](https://github.com/IceyDuan/Esay-practice-of-Data-crawler))
+- [Easy practice of Data-crawler] ([https://github.com/IceyDuan/Warehouse-Management-System](https://github.com/IceyDuan/Esay-practice-of-Data-crawler))
+- [Simple RAG QnA System] ([https://github.com/IceyDuan/Simple-RAG-QnA-System/tree/main)) 
 
 ## Skills | 技术 🛠️
 <p align="left"> 
